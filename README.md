@@ -3,7 +3,7 @@
 I'm Martin Rajniak, working remotely from Poprad, Slovakia.
 
 I have 12 years of experience developing mobile applications and leading teams.
-<br>Passion for developer productivity and tooling (lead mobile CD initiative).</br>
+<br>I also have a passion for developer productivity and tooling (lead mobile CD initiative).</br>
 
 I'm currently trying to switch to ML Engineering.
 
