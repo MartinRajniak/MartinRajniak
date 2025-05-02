@@ -1,15 +1,11 @@
 ### Hi there 👋
 
-I'm Martin Rajniak working remotely from Poprad, Slovakia.
+I'm Martin Rajniak, working remotely from Poprad, Slovakia.
 
-I have worked for 9 years as Android developer (5 of those leading people).
+I have 12 years of experience developing mobile applications and leading teams.
 <br>Passion for developer productivity and tooling (lead mobile CD initiative).</br>
 
-I'm currently trying to get better in any of these:
-- ComposeUI
-- iOS + Swift UI
-- Kotlin Multiplatform
-- (Kotlin) Backend development
+I'm currently trying to switch to ML Engineering.
 
 ![MartinRajniak's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinRajniak)
 
