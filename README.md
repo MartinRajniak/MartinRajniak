@@ -6,6 +6,7 @@ I have 12 years of experience developing mobile applications and leading teams.
 <br>I also have a passion for developer productivity and tooling (lead mobile CD initiative).</br>
 
 I'm currently trying to switch to ML Engineering.
+You can check my [Machine Learning Experience Overview](MACHINE_LEARNING.md).
 
 ![MartinRajniak's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinRajniak)
 
